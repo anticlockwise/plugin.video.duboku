@@ -9,4 +9,4 @@ pycodestyle==2.6.0
 requests==2.23.0
 soupsieve==1.9.6
 toml==0.10.1
-urllib3==1.25.9
+urllib3==1.26.5
